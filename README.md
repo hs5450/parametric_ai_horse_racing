@@ -126,8 +126,7 @@ The goal was to retain as many features as possible unless they were clearly unf
 ---
 
 ## Final Points
-This took me quite a while, definitely more than a full day’s work. While there are some clear and immediate improvements that could be made, as mentioned on the call, this task was originally expected to take just a couple of hours, which I’ve definitely exceeded. I also tried to keep the report as brief and concise as possible and if ive missed something please let me know.
+This took me quite a while. While there are some clear and immediate improvements that could be made, as mentioned on the call, this task was originally expected to take just a couple of hours, which I’ve definitely exceeded. I also tried to keep the report as brief and concise as possible and if ive missed something please let me know.
 
-Regardless of the outcome I'd really appreciate any feedback, whether the decisions I made were sound, where I did well, and where I might’ve slipped up. Besides from that have a great day :)
 
 
