@@ -1,7 +1,7 @@
 
 # Horse Racing Win Probability Prediction
 
-> **A machine learning project focused on predicting per-race win probabilities using structured racing data, with careful attention to feature leakage, calibration, and probabilistic evaluation.**
+> **A machine learning project focused on predicting per race win probabilities.**
 
 This project builds and evaluates supervised learning models to estimate the **probability of a horse winning a given race**. The final solution uses **LightGBM**, extensive feature filtering, and group aware validation to avoid leakage across different races.
 
